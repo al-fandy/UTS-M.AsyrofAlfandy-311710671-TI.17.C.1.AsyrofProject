@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AsyrofProject</string>
+    <string name="home">Home</string>
+    <string name="about">ABOUT</string>
+    <string name="contact">CONTACT</string>
+    <string name="exit">EXIT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
